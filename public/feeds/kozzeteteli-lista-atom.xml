@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Különös közzétételi lista</title>
+	<subtitle type="text">Teszt oldal</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu"/>
+	<id>https://www.drszentgyorgyi.hu/index.php/kozzeteteli-lista</id>
+	<updated>2026-06-22T20:45:15+00:00</updated>
+	<author>
+		<name>Web-Administrator</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.drszentgyorgyi.hu/index.php/kozzeteteli-lista?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Beiratkozás dokumentumok</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/147-beiratkozas-dokumentumok"/>
+		<published>2026-03-31T06:47:17+00:00</published>
+		<updated>2026-03-31T06:47:17+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/147-beiratkozas-dokumentumok</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/iskolai_beiratkozas.jpg&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A beiratkozáshoz szükséges dokumentumok:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a gyermek személyazonosítására alkalmas, a gyermek nevére kiállított lakcímet igazoló hatósági igazolvány (lakcímkártya);&lt;/li&gt;
+&lt;li&gt;nyilatkozat életvitelszerű lakcímről,&lt;/li&gt;
+&lt;li&gt;nyilatkozat a közös szülői felügyeleti jog gyakorlásáról,&lt;/li&gt;
+&lt;li&gt;nyilatkozat adatkezelési hozzájárulásról,&lt;/li&gt;
+&lt;li&gt;a születési anyakönyvi kivonat bemutatása.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ha a tanköteles korba lépő gyerekek tankötelezettségüket külföldön teljesítik, a szülő ezt a tényt az illetékes járási hivatalnak köteles bejelenti.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=23&amp;amp;catid=14&quot;&gt;Tájékoztatés az étkezésről 2025 - 2026 tanévben&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=148&amp;amp;catid=12&quot;&gt;KRÉTA tájékoztató&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/attachments/article/147/B%C3%81I_Sz%C3%BCl%C5%91i%20t%C3%A1j%C3%A9koztat%C3%B3_2026.pdf&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/kreta-beiratkotas.png&quot; width=&quot;75%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt; &lt;/center&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/iskolai_beiratkozas.jpg&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A beiratkozáshoz szükséges dokumentumok:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a gyermek személyazonosítására alkalmas, a gyermek nevére kiállított lakcímet igazoló hatósági igazolvány (lakcímkártya);&lt;/li&gt;
+&lt;li&gt;nyilatkozat életvitelszerű lakcímről,&lt;/li&gt;
+&lt;li&gt;nyilatkozat a közös szülői felügyeleti jog gyakorlásáról,&lt;/li&gt;
+&lt;li&gt;nyilatkozat adatkezelési hozzájárulásról,&lt;/li&gt;
+&lt;li&gt;a születési anyakönyvi kivonat bemutatása.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ha a tanköteles korba lépő gyerekek tankötelezettségüket külföldön teljesítik, a szülő ezt a tényt az illetékes járási hivatalnak köteles bejelenti.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=23&amp;amp;catid=14&quot;&gt;Tájékoztatés az étkezésről 2025 - 2026 tanévben&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=148&amp;amp;catid=12&quot;&gt;KRÉTA tájékoztató&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/attachments/article/147/B%C3%81I_Sz%C3%BCl%C5%91i%20t%C3%A1j%C3%A9koztat%C3%B3_2026.pdf&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/kreta-beiratkotas.png&quot; width=&quot;75%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt; &lt;/center&gt;</content>
+		<category term="Beiratkozás dokumentumok" />
+	</entry>
+	<entry>
+		<title>Felnőttek étkezése</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/etkezes/142-felnottek-etkezese"/>
+		<published>2023-02-02T16:56:00+00:00</published>
+		<updated>2023-02-02T16:56:00+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/etkezes/142-felnottek-etkezese</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.drszentgyorgyi.hu/images/ebedbefizetes/felnott-2025_kep.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.drszentgyorgyi.hu/images/ebedbefizetes/felnott-2025_kep.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Felnőttek étkezése" />
+	</entry>
+	<entry>
+		<title>III. kerületi Tanulmányi Versenyek</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/versenyek/143-versenyszabalyzat"/>
+		<published>2024-11-11T15:55:03+00:00</published>
+		<updated>2024-11-11T15:55:03+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/versenyek/143-versenyszabalyzat</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;2024/25 es tanév III. kerületi tanulmányi versenyek versenyszabályzata és ütemterve&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/verseny.png&quot; alt=&quot;&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;2024/25 es tanév III. kerületi tanulmányi versenyek versenyszabályzata és ütemterve&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/verseny.png&quot; alt=&quot;&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;</content>
+		<category term="III. kerületi Tanulmányi Versenyek" />
+	</entry>
+	<entry>
+		<title>Iránytű a 2025 / 2026-os tanévre</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/172-iranytu-a-2025-2026-os-tanevre"/>
+		<published>2025-01-20T19:20:12+00:00</published>
+		<updated>2025-01-20T19:20:12+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/172-iranytu-a-2025-2026-os-tanevre</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/iranytu.png&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Tájékoztató a III. kerületi iskolákról&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/iranytu.png&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Tájékoztató a III. kerületi iskolákról&lt;/p&gt;</content>
+		<category term="Iránytű a 2025 / 2026-os tanévre" />
+	</entry>
+	<entry>
+		<title>Iskolánk dokumentumai</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/hazirend"/>
+		<published>2021-09-15T06:03:16+00:00</published>
+		<updated>2021-09-15T06:03:16+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/hazirend</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Iskolán letölthető dokumentumai.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Iskolán letölthető dokumentumai.&lt;/p&gt;
+</content>
+		<category term="Iskolánk dokumentumai" />
+	</entry>
+	<entry>
+		<title>KRÉTA tájékoztató</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/148-kreta-tajekoztato"/>
+		<published>2025-03-27T19:02:13+00:00</published>
+		<updated>2025-03-27T19:02:13+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/148-kreta-tajekoztato</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/kreta.png&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Általános iskolai beiskolázás felhasználói útmutató a tankötelezett gyermekek általános iskolába történő beiratkozásának adminisztrálása.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/kreta.png&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Általános iskolai beiskolázás felhasználói útmutató a tankötelezett gyermekek általános iskolába történő beiratkozásának adminisztrálása.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</content>
+		<category term="KRÉTA tájékoztató" />
+	</entry>
+	<entry>
+		<title>Tájékoztatés az étkezésről 2026 - 2027 tanévben</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/etkezes/23-etkezes-tajekoztatas"/>
+		<published>2023-06-28T12:52:34+00:00</published>
+		<updated>2023-06-28T12:52:34+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/etkezes/23-etkezes-tajekoztatas</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/ebed.png&quot; width=&quot;150&quot; /&gt;Tisztelt Szülő / Gondviselő / Étkezést igénybe vevő!&lt;/strong&gt;&lt;br /&gt; &lt;br /&gt;&lt;em&gt;A Fővárosi Önkormányzat tulajdonában álló épületben működő, és a köznevelési fenntartó (tankerületi központ), vagy szakképzési centrum által működtetett köznevelési vagy szakképző intézményben a közétkeztetési feladatok biztosítása a települési önkormányzat (fővárosi önkormányzat) feladata (1997. évi XXXI.tv.21/A §, Gyvt.) A Fővárosi Önkormányzat e feladatellátási kötelezettségét költségvetési szerve útján, az Étkeztetési Szolgáltató Gazdasági Szervezeten keresztül teljesíti. A szülők/gyermekek/tanulók - köznevelési szempontból - a köznevelési fenntartóval, az étkeztetést tekintve az ÉSZGSZ intézménnyel állnak jogviszonyban.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/ebed.png&quot; width=&quot;150&quot; /&gt;Tisztelt Szülő / Gondviselő / Étkezést igénybe vevő!&lt;/strong&gt;&lt;br /&gt; &lt;br /&gt;&lt;em&gt;A Fővárosi Önkormányzat tulajdonában álló épületben működő, és a köznevelési fenntartó (tankerületi központ), vagy szakképzési centrum által működtetett köznevelési vagy szakképző intézményben a közétkeztetési feladatok biztosítása a települési önkormányzat (fővárosi önkormányzat) feladata (1997. évi XXXI.tv.21/A §, Gyvt.) A Fővárosi Önkormányzat e feladatellátási kötelezettségét költségvetési szerve útján, az Étkeztetési Szolgáltató Gazdasági Szervezeten keresztül teljesíti. A szülők/gyermekek/tanulók - köznevelési szempontból - a köznevelési fenntartóval, az étkeztetést tekintve az ÉSZGSZ intézménnyel állnak jogviszonyban.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+		<category term="Tájékoztatés az étkezésről 2026 - 2027 tanévben" />
+	</entry>
+	<entry>
+		<title>Továbbtanulás</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/tovabbtanulas"/>
+		<published>2021-10-22T17:46:28+00:00</published>
+		<updated>2021-10-22T17:46:28+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/tovabbtanulas</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Aktuális tudnivalók elérhetősége&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.oktatas.hu/kozneveles/kozepfoku_felveteli_eljaras/kozepfoku_felveteli_eljaras_informacioi&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;A középfokú felvételi eljárás információi&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oktatas.hu/kozneveles/kozepfoku_felveteli_eljaras/tajekoztato_felvetelizoknek/sni_tanulok_reszvetele&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Különleges bánásmódot igénylő (sajátos nevelési igényű, beilleszkedési, tanulási, magatartási nehézséggel küzdő) tanulók részvétele a középfokú felvételi eljárásban&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Aktuális tudnivalók elérhetősége&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.oktatas.hu/kozneveles/kozepfoku_felveteli_eljaras/kozepfoku_felveteli_eljaras_informacioi&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;A középfokú felvételi eljárás információi&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oktatas.hu/kozneveles/kozepfoku_felveteli_eljaras/tajekoztato_felvetelizoknek/sni_tanulok_reszvetele&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Különleges bánásmódot igénylő (sajátos nevelési igényű, beilleszkedési, tanulási, magatartási nehézséggel küzdő) tanulók részvétele a középfokú felvételi eljárásban&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Továbbtanulás" />
+	</entry>
+</feed>

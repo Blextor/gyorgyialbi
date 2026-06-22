@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Versenyszabályzat</title>
+	<subtitle type="text">Teszt oldal</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu"/>
+	<id>https://www.drszentgyorgyi.hu/index.php/versenyek</id>
+	<updated>2026-06-22T20:45:18+00:00</updated>
+	<author>
+		<name>Web-Administrator</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.drszentgyorgyi.hu/index.php/versenyek?format=feed&amp;type=atom"/>
+	<entry>
+		<title>III. kerületi Tanulmányi Versenyek</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/versenyek/143-versenyszabalyzat"/>
+		<published>2024-11-11T15:55:03+00:00</published>
+		<updated>2024-11-11T15:55:03+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/versenyek/143-versenyszabalyzat</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;2024/25 es tanév III. kerületi tanulmányi versenyek versenyszabályzata és ütemterve&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/verseny.png&quot; alt=&quot;&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;2024/25 es tanév III. kerületi tanulmányi versenyek versenyszabályzata és ütemterve&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/verseny.png&quot; alt=&quot;&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;</content>
+		<category term="versenyek" />
+	</entry>
+</feed>

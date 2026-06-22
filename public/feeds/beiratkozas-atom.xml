@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Beiratkozás</title>
+	<subtitle type="text">Teszt oldal</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu"/>
+	<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas</id>
+	<updated>2026-06-22T20:45:03+00:00</updated>
+	<author>
+		<name>Web-Administrator</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Beiratkozás dokumentumok</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/147-beiratkozas-dokumentumok"/>
+		<published>2026-03-31T06:47:17+00:00</published>
+		<updated>2026-03-31T06:47:17+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/147-beiratkozas-dokumentumok</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/iskolai_beiratkozas.jpg&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A beiratkozáshoz szükséges dokumentumok:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a gyermek személyazonosítására alkalmas, a gyermek nevére kiállított lakcímet igazoló hatósági igazolvány (lakcímkártya);&lt;/li&gt;
+&lt;li&gt;nyilatkozat életvitelszerű lakcímről,&lt;/li&gt;
+&lt;li&gt;nyilatkozat a közös szülői felügyeleti jog gyakorlásáról,&lt;/li&gt;
+&lt;li&gt;nyilatkozat adatkezelési hozzájárulásról,&lt;/li&gt;
+&lt;li&gt;a születési anyakönyvi kivonat bemutatása.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ha a tanköteles korba lépő gyerekek tankötelezettségüket külföldön teljesítik, a szülő ezt a tényt az illetékes járási hivatalnak köteles bejelenti.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=23&amp;amp;catid=14&quot;&gt;Tájékoztatés az étkezésről 2025 - 2026 tanévben&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=148&amp;amp;catid=12&quot;&gt;KRÉTA tájékoztató&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/attachments/article/147/B%C3%81I_Sz%C3%BCl%C5%91i%20t%C3%A1j%C3%A9koztat%C3%B3_2026.pdf&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/kreta-beiratkotas.png&quot; width=&quot;75%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt; &lt;/center&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/iskolai_beiratkozas.jpg&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A beiratkozáshoz szükséges dokumentumok:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a gyermek személyazonosítására alkalmas, a gyermek nevére kiállított lakcímet igazoló hatósági igazolvány (lakcímkártya);&lt;/li&gt;
+&lt;li&gt;nyilatkozat életvitelszerű lakcímről,&lt;/li&gt;
+&lt;li&gt;nyilatkozat a közös szülői felügyeleti jog gyakorlásáról,&lt;/li&gt;
+&lt;li&gt;nyilatkozat adatkezelési hozzájárulásról,&lt;/li&gt;
+&lt;li&gt;a születési anyakönyvi kivonat bemutatása.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ha a tanköteles korba lépő gyerekek tankötelezettségüket külföldön teljesítik, a szülő ezt a tényt az illetékes járási hivatalnak köteles bejelenti.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=23&amp;amp;catid=14&quot;&gt;Tájékoztatés az étkezésről 2025 - 2026 tanévben&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=148&amp;amp;catid=12&quot;&gt;KRÉTA tájékoztató&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.drszentgyorgyi.hu/attachments/article/147/B%C3%81I_Sz%C3%BCl%C5%91i%20t%C3%A1j%C3%A9koztat%C3%B3_2026.pdf&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/kreta-beiratkotas.png&quot; width=&quot;75%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt; &lt;/center&gt;</content>
+		<category term="beiratkozas" />
+	</entry>
+	<entry>
+		<title>Tanszerlista a 2025 / 2026-os tanévre</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/52-tanszerilsta"/>
+		<published>2025-07-06T09:14:11+00:00</published>
+		<updated>2025-07-06T09:14:11+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/52-tanszerilsta</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/tanszerlista.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/tanszerlista.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="beiratkozas" />
+	</entry>
+	<entry>
+		<title>KRÉTA tájékoztató</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/148-kreta-tajekoztato"/>
+		<published>2025-03-27T19:02:13+00:00</published>
+		<updated>2025-03-27T19:02:13+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/148-kreta-tajekoztato</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/kreta.png&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Általános iskolai beiskolázás felhasználói útmutató a tankötelezett gyermekek általános iskolába történő beiratkozásának adminisztrálása.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/kreta.png&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Általános iskolai beiskolázás felhasználói útmutató a tankötelezett gyermekek általános iskolába történő beiratkozásának adminisztrálása.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</content>
+		<category term="beiratkozas" />
+	</entry>
+	<entry>
+		<title>Tankötelessé váló gyermekek iskolai beiratása</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/175-tankotelesse-valo-gyermekek-iskolai-beiratasa-2025"/>
+		<published>2025-03-10T18:49:08+00:00</published>
+		<updated>2025-03-10T18:49:08+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/175-tankotelesse-valo-gyermekek-iskolai-beiratasa-2025</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.drszentgyorgyi.hu/images/kepek/2024_2025/Felhvs_beratsra.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.drszentgyorgyi.hu/images/kepek/2024_2025/Felhvs_beratsra.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;</content>
+		<category term="beiratkozas" />
+	</entry>
+	<entry>
+		<title>Hit- és Erkölcstan</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/108-hit-es-erkolcstan"/>
+		<published>2025-03-09T14:16:36+00:00</published>
+		<updated>2025-03-09T14:16:36+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/108-hit-es-erkolcstan</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;2025 / 2026 tanév&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/hittan.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;2025 / 2026 tanév&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/hittan.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+		<category term="beiratkozas" />
+	</entry>
+	<entry>
+		<title>Iránytű a 2025 / 2026-os tanévre</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/172-iranytu-a-2025-2026-os-tanevre"/>
+		<published>2025-01-20T19:20:12+00:00</published>
+		<updated>2025-01-20T19:20:12+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/172-iranytu-a-2025-2026-os-tanevre</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/iranytu.png&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Tájékoztató a III. kerületi iskolákról&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/iranytu.png&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Tájékoztató a III. kerületi iskolákról&lt;/p&gt;</content>
+		<category term="beiratkozas" />
+	</entry>
+	<entry>
+		<title>Iskola körzete</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/beiratkozas/17-beiratkozas-korzet"/>
+		<published>2021-07-20T04:34:33+00:00</published>
+		<updated>2021-07-20T04:34:33+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/beiratkozas/17-beiratkozas-korzet</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt; Ezen a linken megtalálja gyermeke körzetes iskoláját, ha a lakcímét megadja:&lt;/p&gt;
+&lt;p&gt;Iskolánk OM azonosítója: &lt;b&gt;034847&lt;/b&gt;, teljes neve: Budapest III. Kerületi Dr. Szent-Györgyi Albert Általános Iskola&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/korzet_kep.png&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Körzetek - https://kir.hu/KIR2_KORZET_3h/Pub/Index&quot; href=&quot;https://kir2korzet3h.kir.hu/Pub/index&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt; &lt;input class=&quot;button-pink&quot; type=&quot;button&quot; value=&quot;Körzet&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Köznevelés információs rendszerének (KIR) központi oldala&quot; href=&quot;https://www.oktatas.hu/hivatali_ugyek&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt; &lt;input class=&quot;button-pink&quot; type=&quot;button&quot; value=&quot;KIR&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table class=&quot;tablazat&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Utca&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - ÁLDOMÁS UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Almási Balogh Loránd utca teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - ÁNGEL SANZ BRIZ ÚT teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - APÁT UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Batthyány-Strattmann László park teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - BENEDEK ELEK UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - BOGDÁNI ÚT páratlan oldal 1. házszámtól 23. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - BOGLYA UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - BÚZA UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - CSEREPES KÖZ teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - CSEREPES UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - CSIKÓS UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - DINAMÓ UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - GÁZGYÁR UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - GÁZGYÁRI LAKÓTELEP teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - GYÖNGYSOR UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Hamvas Béla sétány teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HARANG UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HÉVÍZI ÚT páros oldal 10. házszámtól 64. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HÉVÍZI ÚT páratlan oldal 11. házszámtól 67. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HUSZTI ÚT páros oldal 12. házszámtól végig. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HUSZTI ÚT páros oldal 2. házszámtól 10. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HUSZTI ÚT páratlan oldal 1. házszámtól 7. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HUSZTI ÚT páratlan oldal 19. házszámtól végig. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - JÉGTÖRŐ ÚT teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KASZÁSDÜLŐ UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KAZAL UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KÉVE UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KISCSIKÓS KÖZ teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KÖLES UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Kösöntyű utca teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - LEÁNYFALU UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Magnólia utca teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - MOZAIK UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - PETHE FERENC TÉR teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - POMÁZI KÖZ teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - POMÁZI ÚT teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - RÁDL ÁROK teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Reményi Ede utca teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - REVICZKY EZREDES UTCA páros oldal 2. házszámtól 24. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SELYEMFONÓ UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SUJTÁS UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SZENTENDREI ÚT páratlan oldal 79. házszámtól 167. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SZÉRŰSKERT UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SZŐLŐKERT UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - TÖRÖKKŐ UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - VAJDA JÁNOS UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Varsó-Bemowo park teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - ZAB UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - ZÁHONY UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;p&gt; Ezen a linken megtalálja gyermeke körzetes iskoláját, ha a lakcímét megadja:&lt;/p&gt;
+&lt;p&gt;Iskolánk OM azonosítója: &lt;b&gt;034847&lt;/b&gt;, teljes neve: Budapest III. Kerületi Dr. Szent-Györgyi Albert Általános Iskola&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/korzet_kep.png&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Körzetek - https://kir.hu/KIR2_KORZET_3h/Pub/Index&quot; href=&quot;https://kir2korzet3h.kir.hu/Pub/index&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt; &lt;input class=&quot;button-pink&quot; type=&quot;button&quot; value=&quot;Körzet&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Köznevelés információs rendszerének (KIR) központi oldala&quot; href=&quot;https://www.oktatas.hu/hivatali_ugyek&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt; &lt;input class=&quot;button-pink&quot; type=&quot;button&quot; value=&quot;KIR&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table class=&quot;tablazat&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Utca&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - ÁLDOMÁS UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Almási Balogh Loránd utca teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - ÁNGEL SANZ BRIZ ÚT teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - APÁT UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Batthyány-Strattmann László park teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - BENEDEK ELEK UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - BOGDÁNI ÚT páratlan oldal 1. házszámtól 23. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - BOGLYA UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - BÚZA UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - CSEREPES KÖZ teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - CSEREPES UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - CSIKÓS UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - DINAMÓ UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - GÁZGYÁR UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - GÁZGYÁRI LAKÓTELEP teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - GYÖNGYSOR UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Hamvas Béla sétány teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HARANG UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HÉVÍZI ÚT páros oldal 10. házszámtól 64. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HÉVÍZI ÚT páratlan oldal 11. házszámtól 67. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HUSZTI ÚT páros oldal 12. házszámtól végig. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HUSZTI ÚT páros oldal 2. házszámtól 10. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HUSZTI ÚT páratlan oldal 1. házszámtól 7. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - HUSZTI ÚT páratlan oldal 19. házszámtól végig. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - JÉGTÖRŐ ÚT teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KASZÁSDÜLŐ UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KAZAL UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KÉVE UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KISCSIKÓS KÖZ teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - KÖLES UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Kösöntyű utca teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - LEÁNYFALU UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Magnólia utca teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - MOZAIK UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - PETHE FERENC TÉR teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - POMÁZI KÖZ teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - POMÁZI ÚT teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - RÁDL ÁROK teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Reményi Ede utca teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - REVICZKY EZREDES UTCA páros oldal 2. házszámtól 24. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SELYEMFONÓ UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SUJTÁS UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SZENTENDREI ÚT páratlan oldal 79. házszámtól 167. házszámig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SZÉRŰSKERT UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - SZŐLŐKERT UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - TÖRÖKKŐ UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - VAJDA JÁNOS UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - Varsó-Bemowo park teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - ZAB UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Budapest III. kerület - ZÁHONY UTCA teljes közterület&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+		<category term="beiratkozas" />
+	</entry>
+</feed>

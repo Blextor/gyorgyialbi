@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Járványügyi tudnivalók</title>
+	<subtitle type="text">Teszt oldal</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu"/>
+	<id>https://www.drszentgyorgyi.hu/index.php/jarvanyugyi-tudnivalok</id>
+	<updated>2026-06-22T20:45:14+00:00</updated>
+	<author>
+		<name>Web-Administrator</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.drszentgyorgyi.hu/index.php/jarvanyugyi-tudnivalok?format=feed&amp;type=atom"/>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Versenyszabályzat</title>
+		<description><![CDATA[Teszt oldal]]></description>
+		<link>https://www.drszentgyorgyi.hu/index.php/versenyek</link>
+		<lastBuildDate>Mon, 22 Jun 2026 20:45:18 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.drszentgyorgyi.hu/index.php/versenyek?format=feed&amp;type=rss"/>
+		<language>hu-hu</language>
+		<item>
+			<title>III. kerületi Tanulmányi Versenyek</title>
+			<link>https://www.drszentgyorgyi.hu/index.php/versenyek/143-versenyszabalyzat</link>
+			<guid isPermaLink="true">https://www.drszentgyorgyi.hu/index.php/versenyek/143-versenyszabalyzat</guid>
+			<description><![CDATA[<p>2024/25 es tanév III. kerületi tanulmányi versenyek versenyszabályzata és ütemterve<img style="float: right;" src="https://www.drszentgyorgyi.hu/images/egyeb/ikonok/verseny.png" alt="" width="200" /></p>]]></description>
+			<category>versenyek</category>
+			<pubDate>Mon, 11 Nov 2024 15:55:03 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

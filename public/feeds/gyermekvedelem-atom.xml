@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Gyermekvédelem</title>
+	<subtitle type="text">Teszt oldal</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu"/>
+	<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem</id>
+	<updated>2026-06-22T20:45:12+00:00</updated>
+	<author>
+		<name>Web-Administrator</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Tájékoztató anyag pedagógusok számára</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/32-tajekoztato-anyag-pedagogusok-szamara"/>
+		<published>2021-07-20T14:07:01+00:00</published>
+		<updated>2021-07-20T14:07:01+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/32-tajekoztato-anyag-pedagogusok-szamara</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Pedagógusok és más fiatalokkal foglalkozó szakemberek számára készítettünk segédletet a kék bálna nevű jelenség iskolai, tanórai feldolgozásához. Az elmúlt napok nagy médiavisszhangját kiváltó témája a gyerekek körében is érdeklődésre tett szert. A jelenség kapcsán számos fontos kérdés megbeszélésére nyílik lehetőség kötetlenebb keretek között. Ennek megtervezésében nyújt segítséget a letölthető dokumentum.&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Pedagógusok és más fiatalokkal foglalkozó szakemberek számára készítettünk segédletet a kék bálna nevű jelenség iskolai, tanórai feldolgozásához. Az elmúlt napok nagy médiavisszhangját kiváltó témája a gyerekek körében is érdeklődésre tett szert. A jelenség kapcsán számos fontos kérdés megbeszélésére nyílik lehetőség kötetlenebb keretek között. Ennek megtervezésében nyújt segítséget a letölthető dokumentum.&lt;/p&gt;</content>
+		<category term="gyermekvedelem" />
+	</entry>
+	<entry>
+		<title>Kék Bálna - Mi is ez?</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/31-kek-balna-mi-is-ez"/>
+		<published>2021-07-20T14:05:25+00:00</published>
+		<updated>2021-07-20T14:05:25+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/31-kek-balna-mi-is-ez</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://index.hu/tudomany/2017/04/05/ne_a_kek_balnarol_beszeljunk_hanem_hogy_miert_akar_ongyilkos_lenni_egy_gyerek/&quot;&gt;Kék Bálna, ugyan! Fontosabb, miért akar öngyilkos lenni egy gyerek (Index cikk)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.drszentgyorgyi.hu/dok/prevencio/Figyelemfelh%C3%ADv%C3%A1s-K%C3%A9k%20b%C3%A1lna.pdf&quot;&gt;Figyelemfelhívás-Kék bálna&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://index.hu/tudomany/2017/04/05/ne_a_kek_balnarol_beszeljunk_hanem_hogy_miert_akar_ongyilkos_lenni_egy_gyerek/&quot;&gt;Kék Bálna, ugyan! Fontosabb, miért akar öngyilkos lenni egy gyerek (Index cikk)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.drszentgyorgyi.hu/dok/prevencio/Figyelemfelh%C3%ADv%C3%A1s-K%C3%A9k%20b%C3%A1lna.pdf&quot;&gt;Figyelemfelhívás-Kék bálna&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="gyermekvedelem" />
+	</entry>
+	<entry>
+		<title>Cikkek</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/30-cikkek"/>
+		<published>2021-07-20T14:04:44+00:00</published>
+		<updated>2021-07-20T14:04:44+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/30-cikkek</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://index.hu/tech/2017/02/08/biztonsagos_internet_napja_microsoft_momentan_cyberbullying/&quot;&gt;Kedves gyerekek, ugye ti is féltek a csúnya gonosz hekkerektől? (Index)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://yelon.hu/szuloknek/cikkek/463/amit-szulokent-a-snapchatrol-tudni-erdemes&quot;&gt;Amit szülőként a Snapchatről tudni érdemes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://index.hu/tech/2017/02/08/biztonsagos_internet_napja_microsoft_momentan_cyberbullying/&quot;&gt;Kedves gyerekek, ugye ti is féltek a csúnya gonosz hekkerektől? (Index)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://yelon.hu/szuloknek/cikkek/463/amit-szulokent-a-snapchatrol-tudni-erdemes&quot;&gt;Amit szülőként a Snapchatről tudni érdemes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="gyermekvedelem" />
+	</entry>
+	<entry>
+		<title>Továbbtanulási tanácsadás</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/29-tovabbtanulasi-tanacsadas"/>
+		<published>2021-07-20T14:03:38+00:00</published>
+		<updated>2021-07-20T14:03:38+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/29-tovabbtanulasi-tanacsadas</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://palyavalasztas.fpsz.hu/jelentkezes/&quot;&gt;Egyéni (ingyenes) tanácsadás&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://palyavalasztas.fpsz.hu/palyavalasztasi-tanacsadas/&quot;&gt;Pályaválasztási tanácsadás&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://palyavalasztas.fpsz.hu/jelentkezes/&quot;&gt;Egyéni (ingyenes) tanácsadás&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://palyavalasztas.fpsz.hu/palyavalasztasi-tanacsadas/&quot;&gt;Pályaválasztási tanácsadás&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="gyermekvedelem" />
+	</entry>
+	<entry>
+		<title>Egészségfejlesztés</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/28-egeszsegfejlesztes"/>
+		<published>2021-07-20T14:02:53+00:00</published>
+		<updated>2021-07-20T14:02:53+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/28-egeszsegfejlesztes</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.e-bug.eu/&quot;&gt;e - Bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ogyei.hu/kamaszok&quot;&gt;NEFI - Gyermekegészségügyi Igazgatóság&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hogyanmondjamelneked.blog.hu/2016/12/06/a_fiam_bezarkozik_a_szamitogeppel_olvasoi_level&quot;&gt;Hogyan mondjam el neked!? - Használati útmutató fiatalokhoz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.e-bug.eu/&quot;&gt;e - Bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ogyei.hu/kamaszok&quot;&gt;NEFI - Gyermekegészségügyi Igazgatóság&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hogyanmondjamelneked.blog.hu/2016/12/06/a_fiam_bezarkozik_a_szamitogeppel_olvasoi_level&quot;&gt;Hogyan mondjam el neked!? - Használati útmutató fiatalokhoz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="gyermekvedelem" />
+	</entry>
+	<entry>
+		<title>Gyermekbántalmazás</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/27-gyermekbantalmazas"/>
+		<published>2021-07-20T14:01:40+00:00</published>
+		<updated>2021-07-20T14:01:40+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/27-gyermekbantalmazas</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.saferinternet.hu/&quot;&gt;Saferinternet.hu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hun.tabby.eu/&quot;&gt;T.A.B.B.Y. trip in eu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;kamasz gyerekek szülei, figyelem!&quot; href=&quot;http://www.drszentgyorgyi.hu/dok/prevencio/kamasz.pdf&quot;&gt;kamasz gyerekek szülei, figyelem!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Amennyiben bűncselekmény áldozatává válik…&quot; href=&quot;http://www.drszentgyorgyi.hu/dok/prevencio/aldozat.pdf&quot;&gt;Amennyiben bűncselekmény áldozatává válik…&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.saferinternet.hu/&quot;&gt;Saferinternet.hu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hun.tabby.eu/&quot;&gt;T.A.B.B.Y. trip in eu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;kamasz gyerekek szülei, figyelem!&quot; href=&quot;http://www.drszentgyorgyi.hu/dok/prevencio/kamasz.pdf&quot;&gt;kamasz gyerekek szülei, figyelem!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Amennyiben bűncselekmény áldozatává válik…&quot; href=&quot;http://www.drszentgyorgyi.hu/dok/prevencio/aldozat.pdf&quot;&gt;Amennyiben bűncselekmény áldozatává válik…&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="gyermekvedelem" />
+	</entry>
+	<entry>
+		<title>Drogprevenció</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/26-drogprevencio"/>
+		<published>2021-07-20T14:00:08+00:00</published>
+		<updated>2021-07-20T14:00:08+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/26-drogprevencio</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Az Országos Rendőr-főkapitányság által indított, ,,A szülők és a családok a Rendőrség kiemelt partnerei a kábítószer-bűnözés megelőzésében” elnevezésű program célja, hogy minden 12-18 éves gyermeket nevelő szülő lehetőséget kapjon arra, hogy évente legalább egy alkalommal közvetlen, személyes és interaktív tájékoztatásban részesüljön a kábítószer-fogyasztás büntető igazságszolgáltatást érintő kockázataival kapcsolatban.&lt;br /&gt;A Budapesti Rendőr-főkapitányságtól az alábbi funkcionális e-mail címen kérhetnek a szülők tájékoztatást: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:infodrog [KUKAC] budapest [PONT] police [PONT] hu&quot;&gt;infodrog [KUKAC] budapest [PONT] police [PONT] hu&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Az Országos Rendőr-főkapitányság által indított, ,,A szülők és a családok a Rendőrség kiemelt partnerei a kábítószer-bűnözés megelőzésében” elnevezésű program célja, hogy minden 12-18 éves gyermeket nevelő szülő lehetőséget kapjon arra, hogy évente legalább egy alkalommal közvetlen, személyes és interaktív tájékoztatásban részesüljön a kábítószer-fogyasztás büntető igazságszolgáltatást érintő kockázataival kapcsolatban.&lt;br /&gt;A Budapesti Rendőr-főkapitányságtól az alábbi funkcionális e-mail címen kérhetnek a szülők tájékoztatást: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:infodrog [KUKAC] budapest [PONT] police [PONT] hu&quot;&gt;infodrog [KUKAC] budapest [PONT] police [PONT] hu&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="gyermekvedelem" />
+	</entry>
+	<entry>
+		<title>Biztonságban a közösségben - Gyermekvédelemről mindenkinek</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/25-biztonsagban-a-kozossegben-gyermekvedelemrol-mindenkinek"/>
+		<published>2021-07-20T13:32:49+00:00</published>
+		<updated>2021-07-20T13:32:49+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/25-biztonsagban-a-kozossegben-gyermekvedelemrol-mindenkinek</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Üdvözöljük Óbuda-Békásmegyer Önkormányzat és a Hintalovon Gyermekjogi Alapítvány közös, szülőknek szóló e-mail-kurzusán, amelyet azért hoztunk létre, hogy beszélgetést kezdeményezzünk a gyerekek védelme érdekében. Óbuda-Békásmegyer Önkormányzata számára kiemelten fontos, hogy biztonságos környezetben legyenek a gyerekek. A Hintalovon Gyermekjogi Alapítvánnyal hosszú távú együttműködésben teszünk meg minden tőlünk telhetőt azért, hogy megelőzzük a gyerekekkel szembeni bántalmazás minden formáját –ezt a célt szolgálja ez az e-mail-kurzus vagy a rendszeres ingyenes jogsegély-szolgáltatás is, amelyről az önkormányzat honlapján tájékozódhat.&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Üdvözöljük Óbuda-Békásmegyer Önkormányzat és a Hintalovon Gyermekjogi Alapítvány közös, szülőknek szóló e-mail-kurzusán, amelyet azért hoztunk létre, hogy beszélgetést kezdeményezzünk a gyerekek védelme érdekében. Óbuda-Békásmegyer Önkormányzata számára kiemelten fontos, hogy biztonságos környezetben legyenek a gyerekek. A Hintalovon Gyermekjogi Alapítvánnyal hosszú távú együttműködésben teszünk meg minden tőlünk telhetőt azért, hogy megelőzzük a gyerekekkel szembeni bántalmazás minden formáját –ezt a célt szolgálja ez az e-mail-kurzus vagy a rendszeres ingyenes jogsegély-szolgáltatás is, amelyről az önkormányzat honlapján tájékozódhat.&lt;/p&gt;</content>
+		<category term="gyermekvedelem" />
+	</entry>
+</feed>

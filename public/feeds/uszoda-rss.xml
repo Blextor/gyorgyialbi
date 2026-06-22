@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Uszoda</title>
+		<description><![CDATA[Teszt oldal]]></description>
+		<link>https://www.drszentgyorgyi.hu/index.php/uszoda</link>
+		<lastBuildDate>Mon, 22 Jun 2026 20:45:18 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.drszentgyorgyi.hu/index.php/uszoda?format=feed&amp;type=rss"/>
+		<language>hu-hu</language>
+		<item>
+			<title>Úszás oktatás</title>
+			<link>https://www.drszentgyorgyi.hu/index.php/uszoda/111-uszas-oktatas</link>
+			<guid isPermaLink="true">https://www.drszentgyorgyi.hu/index.php/uszoda/111-uszas-oktatas</guid>
+			<description><![CDATA[<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.drszentgyorgyi.hu/images/uszoda/uszasoktatas/IMG_1753.jpg" width="80%" /></p>
+<p style="text-align: justify;">Az úszás az egyik legegészségesebb mozgásforma. Iskolánk a Szérűskerti Tanuszodával közvetlen kapcsolatban van, így hatalmas lehetőség számunkra, hogy tanulóink - délutáni, költségtérítéses tanfolyamok keretében, tanítói kísérettel –részt vegyenek a vízbiztonságukat megalapozó foglalkozásokon.</p>
+<p style="text-align: justify;">{gallery}uszoda/uszasoktatas{/gallery}</p>
+<p style="text-align: justify;"> </p>]]></description>
+			<category>uszoda</category>
+			<pubDate>Sun, 03 Apr 2022 06:55:59 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

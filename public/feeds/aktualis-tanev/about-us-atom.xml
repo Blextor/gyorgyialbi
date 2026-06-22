@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Tanév rendje</title>
+	<subtitle type="text">Teszt oldal</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu"/>
+	<id>https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us</id>
+	<updated>2026-06-22T20:45:00+00:00</updated>
+	<author>
+		<name>Web-Administrator</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us?format=feed&amp;type=atom"/>
+	<entry>
+		<title>2025/2026 tanév rendje</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us/132-tanev-rendje"/>
+		<published>2022-08-24T18:40:33+00:00</published>
+		<updated>2022-08-24T18:40:33+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us/132-tanev-rendje</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;A TANÍTÁSI ÉV RENDJE&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Az első tanítási nap&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Az első tanítási nap&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. szeptember 1. (hétfő)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. szeptember 1. (hétfő)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Az első félév vége&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Az első félév vége&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. január 23. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. január 23. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A félévi értesítő kiosztása&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A félévi értesítő kiosztása&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. január 30. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. január 30. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Az utolsó tanítási nap&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Az utolsó tanítási nap&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. június 19. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. június 19. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Tanévzáró &amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Tanévzáró &lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. június 24. (szerda)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. június 24. (szerda)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Ballagás&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ballagás&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. június 19. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. június 19. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Farsang&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Farsang&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. február 9. (hétfő) &amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. február 9. (hétfő) &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Szünetek&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Őszi szünet&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Őszi szünet&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet előtti utolsó tanítási nap: 2025. október 22.(szerda)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet előtti utolsó tanítási nap: 2025. október 22.(szerda)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet utáni első tanítási nap:  2025. november 3. (hétfő)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet utáni első tanítási nap: 2025. november 3. (hétfő)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Téli szünet&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Téli szünet&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet előtti utolsó tanítási nap: 2025. december 19. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet előtti utolsó tanítási nap: 2025. december 19. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet utáni első tanítási nap:  2026. január 5. (hétfő)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet utáni első tanítási nap: 2026. január 5. (hétfő)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Tavaszi szünet&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Tavaszi szünet&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet előtti utolsó tanítási nap: 2026. április 1.(szerda)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet előtti utolsó tanítási nap: 2026. április 1.(szerda)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet utáni első tanítási nap:  2026. április 13. (hétfő)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet utáni első tanítási nap: 2026. április 13. (hétfő)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Tanítás nélküli munkanapok&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. november 11. (kedd) SzakMázz!&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. november 11. (kedd) SzakMázz!&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. december 13. (szombat)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. december 13. (szombat)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. január 10. (szombat)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. január 10. (szombat)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. február 19. (csütörtök)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. február 19. (csütörtök)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. február 20. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. február 20. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. május 29. (péntek)DÖK&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. május 29. (péntek)DÖK&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Tanulmányi kirándulás&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 3, &amp;quot;3&amp;quot;: 46155}&quot; data-sheets-numberformat=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;YYYY-MM-DD&amp;quot;, &amp;quot;3&amp;quot;: 1}&quot;&gt;2026. május 13.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Iskolai SzK értekezlet&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 3, &amp;quot;3&amp;quot;: 45909}&quot; data-sheets-numberformat=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;YY-MM-DD HH:MM&amp;quot;, &amp;quot;3&amp;quot;: 1}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;25-09-09 17:00&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 3, &amp;quot;3&amp;quot;: 46063}&quot; data-sheets-numberformat=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;YY-MM-DD HH:MM&amp;quot;, &amp;quot;3&amp;quot;: 1}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;26-02-10 17:00&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Szülői értekezlet&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. szeptember 10-11.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. szeptember 10-11.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. február 2-4.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. február 2-4.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. május 4 -8.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. május 4 -8.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Nyílt napok&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;alsóban:: 2026. március 18.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;alsóban:: 2026. március 18.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;felsőben: 2026. március 17.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;felsőben: 2026. március 17.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Vizsgák rendje&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Osztályozóvizsgák:&amp;quot;}&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Osztályozóvizsgák:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. január 12-16.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. január 12-16.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. június 8-12.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. június 8-12.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Javítóvizsga:&amp;quot;}&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Javítóvizsga:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 3, &amp;quot;3&amp;quot;: 46260}&quot; data-sheets-numberformat=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;YYYY-MM-DD&amp;quot;, &amp;quot;3&amp;quot;: 1}&quot;&gt;2026. augusztus  26.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Fogadoórák&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. november 17-19.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. november 17-19.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. március 30-április 1.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. március 30-április 1.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Ezen kívül telefonos egyeztetésre.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ezen kívül telefonos egyeztetésre.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Országos mérések&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Pályaválasztást megalapozó  kompetenciák vizsgálata (8.évf.) &amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Pályaválasztást megalapozó kompetenciák vizsgálata (8.évf.) &lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. szeptember 17 - október 9.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. szeptember 17 - október 9.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Országos mérés: 4.,5.,6.,7.,8. évfolyamokon&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Országos mérés: 4.,5.,6.,7.,8. évfolyamokon&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. március 23 - 2025. május 29.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. március 23 - 2025. május 29.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Diagnosztizáló mérés első évfolyamon&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Diagnosztizáló mérés első évfolyamon&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. május eleje&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. május eleje&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;A TANÍTÁSI ÉV RENDJE&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Az első tanítási nap&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Az első tanítási nap&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. szeptember 1. (hétfő)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. szeptember 1. (hétfő)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Az első félév vége&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Az első félév vége&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. január 23. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. január 23. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A félévi értesítő kiosztása&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A félévi értesítő kiosztása&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. január 30. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. január 30. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Az utolsó tanítási nap&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Az utolsó tanítási nap&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. június 19. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. június 19. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Tanévzáró &amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Tanévzáró &lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. június 24. (szerda)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. június 24. (szerda)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Ballagás&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ballagás&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. június 19. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. június 19. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Farsang&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Farsang&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. február 9. (hétfő) &amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. február 9. (hétfő) &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Szünetek&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Őszi szünet&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Őszi szünet&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet előtti utolsó tanítási nap: 2025. október 22.(szerda)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet előtti utolsó tanítási nap: 2025. október 22.(szerda)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet utáni első tanítási nap:  2025. november 3. (hétfő)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet utáni első tanítási nap: 2025. november 3. (hétfő)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Téli szünet&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Téli szünet&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet előtti utolsó tanítási nap: 2025. december 19. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet előtti utolsó tanítási nap: 2025. december 19. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet utáni első tanítási nap:  2026. január 5. (hétfő)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet utáni első tanítási nap: 2026. január 5. (hétfő)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Tavaszi szünet&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Tavaszi szünet&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet előtti utolsó tanítási nap: 2026. április 1.(szerda)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet előtti utolsó tanítási nap: 2026. április 1.(szerda)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;A szünet utáni első tanítási nap:  2026. április 13. (hétfő)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A szünet utáni első tanítási nap: 2026. április 13. (hétfő)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Tanítás nélküli munkanapok&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. november 11. (kedd) SzakMázz!&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. november 11. (kedd) SzakMázz!&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. december 13. (szombat)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. december 13. (szombat)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. január 10. (szombat)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. január 10. (szombat)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. február 19. (csütörtök)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. február 19. (csütörtök)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. február 20. (péntek)&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. február 20. (péntek)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;17&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. május 29. (péntek)DÖK&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. május 29. (péntek)DÖK&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Tanulmányi kirándulás&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 3, &amp;quot;3&amp;quot;: 46155}&quot; data-sheets-numberformat=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;YYYY-MM-DD&amp;quot;, &amp;quot;3&amp;quot;: 1}&quot;&gt;2026. május 13.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Iskolai SzK értekezlet&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 3, &amp;quot;3&amp;quot;: 45909}&quot; data-sheets-numberformat=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;YY-MM-DD HH:MM&amp;quot;, &amp;quot;3&amp;quot;: 1}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;25-09-09 17:00&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 3, &amp;quot;3&amp;quot;: 46063}&quot; data-sheets-numberformat=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;YY-MM-DD HH:MM&amp;quot;, &amp;quot;3&amp;quot;: 1}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;26-02-10 17:00&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Szülői értekezlet&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. szeptember 10-11.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. szeptember 10-11.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. február 2-4.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. február 2-4.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. május 4 -8.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. május 4 -8.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Nyílt napok&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;alsóban:: 2026. március 18.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;alsóban:: 2026. március 18.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;felsőben: 2026. március 17.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;felsőben: 2026. március 17.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Vizsgák rendje&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Osztályozóvizsgák:&amp;quot;}&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Osztályozóvizsgák:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. január 12-16.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. január 12-16.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. június 8-12.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. június 8-12.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Javítóvizsga:&amp;quot;}&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Javítóvizsga:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 3, &amp;quot;3&amp;quot;: 46260}&quot; data-sheets-numberformat=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;YYYY-MM-DD&amp;quot;, &amp;quot;3&amp;quot;: 1}&quot;&gt;2026. augusztus  26.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;strong&gt;Fogadoórák&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. november 17-19.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. november 17-19.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. március 30-április 1.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. március 30-április 1.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Ezen kívül telefonos egyeztetésre.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ezen kívül telefonos egyeztetésre.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Országos mérések&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&quot;tablazat&quot; style=&quot;width: 100%;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Pályaválasztást megalapozó  kompetenciák vizsgálata (8.évf.) &amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Pályaválasztást megalapozó kompetenciák vizsgálata (8.évf.) &lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2025. szeptember 17 - október 9.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2025. szeptember 17 - október 9.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Országos mérés: 4.,5.,6.,7.,8. évfolyamokon&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Országos mérés: 4.,5.,6.,7.,8. évfolyamokon&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. március 23 - 2025. május 29.&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. március 23 - 2025. május 29.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;Diagnosztizáló mérés első évfolyamon&amp;quot;}&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Diagnosztizáló mérés első évfolyamon&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot; valign=&quot;bottom&quot; height=&quot;18&quot; data-sheets-value=&quot;{ &amp;quot;1&amp;quot;: 2, &amp;quot;2&amp;quot;: &amp;quot;2026. május eleje&amp;quot;}&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2026. május eleje&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="tanév" />
+	</entry>
+	<entry>
+		<title>Osztályzóvizsga</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us/16-osztalyzovizsga"/>
+		<published>2021-08-13T13:32:35+00:00</published>
+		<updated>2021-08-13T13:32:35+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us/16-osztalyzovizsga</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/vizsga.jpeg&quot; height=&quot;100&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Követelmények letölthetők.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;https://www.drszentgyorgyi.hu/images/egyeb/ikonok/vizsga.jpeg&quot; height=&quot;100&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Követelmények letölthetők.&lt;/p&gt;</content>
+		<category term="tanév" />
+	</entry>
+	<entry>
+		<title>Csengetési rend</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/csengetesi-rend"/>
+		<published>2021-07-23T09:13:24+00:00</published>
+		<updated>2021-07-23T09:13:24+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/csengetesi-rend</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;h2&gt;Normál csengetési rend&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table style=&quot;height: 156px;&quot; border=&quot;0&quot; width=&quot;259&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;1. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;8:00–8:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;2. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;9:00–9:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;3. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;10:00–10:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;4. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;1055-11:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;5. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;12:00-12:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;6. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;13:05-13:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;7. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;14:00-14:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h2&gt;Normál csengetési rend&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table style=&quot;height: 156px;&quot; border=&quot;0&quot; width=&quot;259&quot; cellspacing=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;85&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;1. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;8:00–8:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;2. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;9:00–9:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;3. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;10:00–10:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;4. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;1055-11:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;5. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;12:00-12:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;6. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;13:05-13:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot; height=&quot;17&quot;&gt;7. óra&lt;/td&gt;
+&lt;td style=&quot;width: 124px;&quot; align=&quot;left&quot;&gt;14:00-14:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="tanév" />
+	</entry>
+	<entry>
+		<title>Órarend felső tagozat</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us/42-orarend-felso-tagozat"/>
+		<published>2021-07-23T09:07:57+00:00</published>
+		<updated>2021-07-23T09:07:57+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us/42-orarend-felso-tagozat</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Feltöltés alatt...&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Feltöltés alatt...&lt;/p&gt;</content>
+		<category term="tanév" />
+	</entry>
+	<entry>
+		<title>Órarend alsó tagozat</title>
+		<link rel="alternate" type="text/html" href="https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us/41-orarend-aslo-tagozat"/>
+		<published>2021-07-23T09:05:09+00:00</published>
+		<updated>2021-07-23T09:05:09+00:00</updated>
+		<id>https://www.drszentgyorgyi.hu/index.php/aktualis-tanev/about-us/41-orarend-aslo-tagozat</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Feltöltés alatt...&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Feltöltés alatt...&lt;/p&gt;</content>
+		<category term="tanév" />
+	</entry>
+</feed>

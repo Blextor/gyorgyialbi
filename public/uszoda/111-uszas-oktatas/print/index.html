@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="hu-hu">
+<head>
+
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="Super User" name="author"/>
+<meta content="noindex, nofollow" name="robots"/>
+<meta content="Teszt oldal" name="description"/>
+<meta content="Joomla! - Open Source Content Management" name="generator"/>
+<title>Úszás oktatás</title>
+<link href="/templates/dd_schoolsfun_48/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="/plugins/content/addtoany/addtoany.css" rel="stylesheet" type="text/css"/>
+<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css"/>
+<link href="/media/com_attachments/css/attachments_hide.css" rel="stylesheet" type="text/css"/>
+<link href="/media/com_attachments/css/attachments_list.css" rel="stylesheet" type="text/css"/>
+<link href="/plugins/system/jce/css/content.css" rel="stylesheet" type="text/css"/>
+<script class="joomla-script-options new" type="application/json">{"csrf.token":"5a297c142458957a9362bbbf89cf7d95","system.paths":{"root":"","base":""}}</script>
+<script async="async" src="https://static.addtoany.com/menu/page.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+<script src="/media/system/js/core.js" type="text/javascript"></script>
+<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+<script src="/media/system/js/modal.js" type="text/javascript"></script>
+<script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+<script src="/media/system/js/caption.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function(d){
+					  var js, id = 'powr-js', ref = d.getElementsByTagName('script')[0];
+					  if (d.getElementById(id)) {return;}
+					  js = d.createElement('script'); js.id = id; js.async = true;
+					  js.src = 'https://www.drszentgyorgyi.hu/plugins/content/powrshortcodes/powr_joomla.js';
+					  js.setAttribute('powr-token','uql7wWln5U1634933133');
+					  js.setAttribute('external-type','joomla');
+					  ref.parentNode.insertBefore(js, ref);
+					}(document));
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('a.modal').get(), {
+					parse: 'rel'
+				});
+			}
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+<style type="text/css">.sige_cont_0 {width:230px;height:180.42735042735px;float:left;display:inline-block;}
+</style>
+<link href="/plugins/content/sige/assets/sige.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="/plugins/content/sige/assets/photoswipe/photoswipe.min.js" type="text/javascript"></script>
+<script src="/plugins/content/sige/assets/photoswipe/photoswipe-ui-default.min.js" type="text/javascript"></script>
+<script src="/plugins/content/sige/assets/photoswipe/photoswipe.sige.min.js" type="text/javascript"></script>
+<link href="/plugins/content/sige/assets/photoswipe/photoswipe.css" rel="stylesheet" type="text/css"/>
+<link href="/plugins/content/sige/assets/photoswipe/default-skin/default-skin.css" rel="stylesheet" type="text/css"/>
+<link href="/templates/system/css/system.css" rel="stylesheet" type="text/css"/>
+<link href="/templates/system/css/general.css" rel="stylesheet" type="text/css"/>
+<link href="/templates/dd_schoolsfun_48/css/print.css" rel="stylesheet" type="text/css"/>
+</head>
+<body class="contentpane">
+<div id="system-message-container">
+</div>
+<style></style><div class="item-page" itemscope="" itemtype="http://schema.org/Article"><article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/uszoda/111-uszas-oktatas/">Úszás oktatás</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="#" onclick="window.print();return false;"> <span aria-hidden="true" class="icon-print"></span>
+		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><p><img src="/images/uszoda/uszasoktatas/IMG_1753.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="80%"/></p>
+<p style="text-align: justify;">Az úszás az egyik legegészségesebb mozgásforma. Iskolánk a Szérűskerti Tanuszodával közvetlen kapcsolatban van, így hatalmas lehetőség számunkra, hogy tanulóink - délutáni, költségtérítéses tanfolyamok keretében, tanítói kísérettel –részt vegyenek a vízbiztonságukat megalapozó foglalkozásokon.</p>
+<p style="text-align: justify;"><!-- Simple Image Gallery Extended - Plugin for Joomla! 3.x - Kubik-Rubik Joomla! Extensions --><ul class="sige sige_swipe_0" id="sige_0"><li class="sige_cont_0 sige_swipe sige_swipe_single_0"><span class="sige_thumb"><a data-size="640x360" data-title="" href="/images/uszoda/uszasoktatas/IMG_1753.jpg" title="IMG_1753"><img alt="IMG_1753" src="/images/uszoda/uszasoktatas/thumbs/IMG_1753.jpg" title="IMG_1753"/></a></span></li><li class="sige_cont_0 sige_swipe sige_swipe_single_0"><span class="sige_thumb"><a data-size="581x434" data-title="" href="/images/uszoda/uszasoktatas/uo01.png" title="uo01"><img alt="uo01" src="/images/uszoda/uszasoktatas/thumbs/uo01.png" title="uo01"/></a></span></li><li class="sige_cont_0 sige_swipe sige_swipe_single_0"><span class="sige_thumb"><a data-size="587x438" data-title="" href="/images/uszoda/uszasoktatas/uo02.png" title="uo02"><img alt="uo02" src="/images/uszoda/uszasoktatas/thumbs/uo02.png" title="uo02"/></a></span></li><li class="sige_cont_0 sige_swipe sige_swipe_single_0"><span class="sige_thumb"><a data-size="572x421" data-title="" href="/images/uszoda/uszasoktatas/uo03.png" title="uo03"><img alt="uo03" src="/images/uszoda/uszasoktatas/thumbs/uo03.png" title="uo03"/></a></span></li><li class="sige_cont_0 sige_swipe sige_swipe_single_0"><span class="sige_thumb"><a data-size="555x409" data-title="" href="/images/uszoda/uszasoktatas/uo04.png" title="uo04"><img alt="uo04" src="/images/uszoda/uszasoktatas/thumbs/uo04.png" title="uo04"/></a></span></li><li class="sige_cont_0 sige_swipe sige_swipe_single_0"><span class="sige_thumb"><a data-size="563x403" data-title="" href="/images/uszoda/uszasoktatas/uo05.png" title="uo05"><img alt="uo05" src="/images/uszoda/uszasoktatas/thumbs/uo05.png" title="uo05"/></a></span></li><li class="sige_cont_0 sige_swipe sige_swipe_single_0"><span class="sige_thumb"><a data-size="546x405" data-title="" href="/images/uszoda/uszasoktatas/uo06.png" title="uo06"><img alt="uo06" src="/images/uszoda/uszasoktatas/thumbs/uo06.png" title="uo06"/></a></span></li><li class="sige_cont_0 sige_swipe sige_swipe_single_0"><span class="sige_thumb"><a data-size="234x176" data-title="" href="/images/uszoda/uszasoktatas/uo07.png" title="uo07"><img alt="uo07" src="/images/uszoda/uszasoktatas/thumbs/uo07.png" title="uo07"/></a></span></li></ul><span class="sige_clr"></span>
+<p style="text-align: justify;"> </p> <div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Úszás oktatás" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/uszoda/111-uszas-oktatas">
+<a class="a2a_button_facebook"></a>
+<!--<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a>-->
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</span>
+</div><div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+</button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+</button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">jQuery(document).ready(photoSwipeSige(".sige_swipe_0", ".sige_swipe_single_0", 1));</script><div class="attachmentsContainer">
+<div class="attachmentsList" id="attachmentsList_com_content_default_111"></div>
+</div></p></div></div></article></div>
+</body>
+</html>
