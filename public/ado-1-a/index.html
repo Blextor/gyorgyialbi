@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="hu-hu">
+<head>
+
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="Super User" name="author"/>
+<meta content="Teszt oldal" name="description"/>
+<meta content="Joomla! - Open Source Content Management" name="generator"/>
+<title>Alapítvány</title>
+<link href="/templates/dd_schoolsfun_48/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="/plugins/content/addtoany/addtoany.css" rel="stylesheet" type="text/css"/>
+<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css"/>
+<link href="/media/com_attachments/css/attachments_hide.css" rel="stylesheet" type="text/css"/>
+<link href="/media/com_attachments/css/attachments_list.css" rel="stylesheet" type="text/css"/>
+<link href="/plugins/system/jce/css/content.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+</style>
+<script class="joomla-script-options new" type="application/json">{"csrf.token":"14a27e7a53b3be45a82485151c0691ed","system.paths":{"root":"","base":""}}</script>
+<script async="async" src="https://static.addtoany.com/menu/page.js" type="text/javascript"></script>
+<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+<script src="/media/system/js/core.js" type="text/javascript"></script>
+<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+<script src="/media/system/js/modal.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+<script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+<script src="/media/system/js/caption.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function(d){
+
+					  var js, id = 'powr-js', ref = d.getElementsByTagName('script')[0];
+
+					  if (d.getElementById(id)) {return;}
+
+					  js = d.createElement('script'); js.id = id; js.async = true;
+
+					  js.src = '/plugins/content/powrshortcodes/powr_joomla.js';
+
+					  js.setAttribute('powr-token','uql7wWln5U1634933133');
+
+					  js.setAttribute('external-type','joomla');
+
+					  ref.parentNode.insertBefore(js, ref);
+
+					}(document));
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('a.modal').get(), {
+					parse: 'rel'
+				});
+			}
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+</script>
+<link href="/templates/system/css/system.css" rel="stylesheet"/>
+<link href="/templates/system/css/general.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+<meta content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width" name="viewport"/>
+<!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link href="/templates/dd_schoolsfun_48/css/template.css" media="screen" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]><link rel="stylesheet" href="/templates/dd_schoolsfun_48/css/template.ie7.css" media="screen" /><![endif]-->
+<link href="/templates/dd_schoolsfun_48/css/template.responsive.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/templates/dd_schoolsfun_48/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script>if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+<script src="/templates/dd_schoolsfun_48/jquery.js"></script>
+<script>jQuery.noConflict();</script>
+<script src="/templates/dd_schoolsfun_48/script.js"></script>
+<script src="/templates/dd_schoolsfun_48/script.responsive.js"></script>
+<script src="/templates/dd_schoolsfun_48/modules.js"></script>
+<script>if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+</link></head>
+<body>
+<!--License Number :License Number-->
+<div id="dd-main">
+<header class="dd-header">
+<div class="dd-shapes">
+<div class="dd-object1075803632"></div>
+<div class="dd-object1545816185"></div>
+<div class="dd-object1606032627"></div>
+<div class="dd-object2122474996"></div>
+<div class="dd-object380642814"></div>
+<div class="dd-object310795231"></div>
+<div class="dd-object522852718"></div>
+<div class="dd-object919769992"></div>
+<div class="dd-object908552167"></div>
+<div class="dd-object422033087"></div>
+<div class="dd-textblock dd-object1799037601">
+<div class="dd-object1799037601-text-container">
+<div class="dd-object1799037601-text"><p><span class="Apple-style-span" style="font-size: 18px; font-weight: bold; text-shadow: rgba(255, 255, 255, 0.480469) 1px 1px 0px; color: #E6287E; ">Iskola adatai</span></p>
+<p>
+<dl>
+<b>OM azonosító: 034847</b>
+<dt>Igazgató</dt>
+<dd>Göndöcsné Sárossi Rita</dd>
+<dt>e-mail</dt>
+<dd>
+  igazgato.drsztgyorgyia{QkAc}ebtk.hu<br/>
+titkarsag.drsztgyorgyia{kukac}ebtk.hu</dd>
+<dt>telefon</dt>
+<dd>+36 1 430-1906 és +36 1 367-1429</dd>
+</dl>
+</p></div>
+</div>
+</div>
+</div>
+<div class="dd-textblock dd-textblock-1954962918">
+<div class="dd-textblock-1954962918-text-container">
+<div class="dd-textblock-1954962918-text"><a class="dd-facebook-tag-icon" href="https://www.facebook.com/profile.php?id=61552131145737" target="_blank"></a></div>
+</div>
+</div><div class="dd-textblock dd-textblock-2004913695">
+<div class="dd-textblock-2004913695-text-container">
+<div class="dd-textblock-2004913695-text"><a class="dd-twitter-tag-icon" href="#" target="_blank"></a></div>
+</div>
+</div>
+<a class="dd-logo dd-logo-407058878" href="#">
+<img alt="" src="/templates/dd_schoolsfun_48/images/logo-407058878.png"/>
+</a><a class="dd-logo dd-logo-1944277602" href="/">
+<img class="logo_cimer" src="/images/cimernagy.png"/>
+<img alt="" class="logo_image" src="/images/cooltext389076576203097.png"/>
+</a><a class="dd-logo dd-logo-1717819953" href="#">
+<img alt="" src="/templates/dd_schoolsfun_48/images/logo-1717819953.png"/>
+</a>
+<div class="dd-textblock dd-object995499080">
+<form action="/index.php" class="dd-search" method="post" name="Search">
+<input name="searchword" type="text" value=""/>
+<input name="task" type="hidden" value="search"/>
+<input name="option" type="hidden" value="com_search"/>
+<input class="dd-search-button" name="search" type="submit" value=""/>
+</form>
+</div>
+<div id="dd-flash-area">
+<div id="dd-flash-container">
+<param name="quality" value="high"/>
+<param name="scale" value="exactfit"/>
+<param name="wmode" value="transparent"/>
+<!--[if !IE]>-->
+<param name="quality" value="high"/>
+<param name="scale" value="exactfit"/>
+<param name="wmode" value="transparent"/>
+<param name="swfliveconnect" value="true"/>
+<!--<![endif]-->
+<!--[if !IE]>-->
+
+<!--<![endif]-->
+
+</div>
+</div>
+<nav class="dd-nav">
+<ul class="dd-hmenu nav-pills" id="Iskola"><li class="item-101 active"><a class="active" href="/">Kezdőlap</a></li><li class="item-335 deeper parent"><a>2025/2026 tanév</a><ul><li class="item-102"><a href="/aktualis-tanev/about-us/">Tanév rendje</a></li><li class="item-297"><a href="/kepek/">Galéria</a></li></ul></li><li class="item-128"><a href="/etkezes/">Étkezés</a></li><li class="item-120"><a href="https://idp.e-kreta.hu/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dkreta-web%26response_type%3Dcode%26scope%3Dopenid%2520offline_access%2520kreta-core-webapi.public%26state%3DOpenIdConnect.AuthenticationProperties%253DHwpNLwP0n4ce0R7VYmQn-0zFYCHK29DpX2b86EfwecWk0N0H7wl-OtV0y7_3e7gW0vN2OWAEGmnmlJaknOYjFIZr3Ry5Bf_IHohpt-56aMoLM6u-fTRuSpC-EyDrTfvientLLHCnRly8BhsvNpFmcw%26response_mode%3Dform_post%26nonce%3D637621961812923348.ZWYyYjQ3ZjQtYWMzMS00ZDZhLTgyYjgtMjgzMzM5OTJjZmNkNTljNDQ4ODktYTRjYy00NWNiLWE5N2UtNmRmODMxNGNiYzUz%26institute_code%3Dklik034847001%26institute_data%3DeyJuZXh0X3VwZGF0ZV9kYXRlX3RpbWUiOiIyMDIxLjA4LjAzLiAyMjowMCIsImlzX3N6aXJfaW5zdGl0dXRlIjpmYWxzZSwiaXNfbGljZW5jZV92YWxpZCI6dHJ1ZSwiaXNfYXJjaGl2ZSI6ZmFsc2UsImlzX2Nzb2trZW50ZXR0X2dvbmR2aXNlbG8iOnRydWUsImlzX2ludGV6bWVueV9yb3ZpZG5ldiI6dHJ1ZSwiaXNfc3VjY2Vzc19hdXRob3JpemVkX2RhdGUiOmZhbHNlfQ%253D%253D%26redirect_uri%3Dhttps%253A%252F%252Fklik034847001.e-kreta.hu%26x-client-SKU%3DID_NET461%26x-client-ver%3D5.3.0.0"><img alt="e-kréta" class="dd-menu-image" src="/images/ekreta.jpg"/></a></li><li class="item-121"><a href="/kapcsolat/">Kapcsolat</a></li><li class="item-129"><a href="/gyermekvedelem/">Gyermekvédelem</a></li><li class="item-122"><a href="/beiratkozas/">Beiratkozás</a></li></ul>
+</nav>
+<script>
+  jQuery(document).ready(function($) {
+    var navbar = $('.dd-nav');
+    var searchbar = $('.dd-object995499080');
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > 130) {
+            navbar.addClass('fixed-top');
+            searchbar.addClass('dd-search-fix-top');
+        } else {
+            navbar.removeClass('fixed-top');
+          searchbar.removeClass('dd-search-fix-top');
+        }
+    });
+});
+</script>
+</header>
+<div class="dd-sheet clearfix">
+<!-- begin nostyle -->
+<div class="dd-nostyle">
+<h3>Közérdekű adatigénylés</h3>
+<!-- begin nostyle content -->
+<div class="custom">
+<p> Intézményünkkel kapcsolatos közérdekű adatigénylést kizárólag az<span style="text-decoration: underline;"><strong> igazgato.drsztgyorgyia{QkAc}ebtk.hu</strong></span> e-mail címen lehet benyújtani.</p></div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+<div class="dd-layout-wrapper">
+<div class="dd-content-layout">
+<div class="dd-content-layout-row">
+<div class="dd-layout-cell dd-content">
+<article class="dd-post dd-messages"><div class="dd-postcontent clearfix">
+<div id="system-message-container">
+</div></div></article><div class="item-page" itemscope="" itemtype="http://schema.org/Article"><article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/ado-1-a/">Szérűskerti Napraforgók Alapítvány</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/index.php/ado-1-a?tmpl=component&amp;print=1" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Szérűskerti Napraforgók Alapítvány &gt;"> <span aria-hidden="true" class="icon-print"></span>
+		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><p>A <b>Szérűskerti Napraforgók Alapítvány</b> a Dr. Szent-Györgyi Albert Általános Iskola diákjainak jutalmazására és a diákok táborozásának megkönnyítésére jött létre. Hozzájárul az erdei iskolákba, nyári és téli táborokba jelentkező tanulóink tábori költségeihez, a különböző iskoladíjakon győztes gyermekek jutalmazásához.<br><br/>A hozzánk járó tanulók szülei és az alapítvány céljaival szimpatizálók adójuk 1%-át is fölajánlhatják az alapítvány számára, az alábbi adószámra:<br/><br/><b>A kedvezményezett adószáma:<br/>18211748-1-41<br/><br/>A kedvezményezett neve (kitöltése nem kötelező):<br/>SZÉRŰSKERTI NAPRAFORGÓK ALAPÍTVÁNY</b><br/><br/>Támogatásukat köszönjük!</br></p> <div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Szérűskerti Napraforgók Alapítvány" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/ado-1-a">
+<a class="a2a_button_facebook"></a>
+<!--<a class="a2a_button_twitter"></a>
+
+<a class="a2a_button_google_plus"></a>-->
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</span>
+</div><div class="attachmentsContainer">
+<div class="attachmentsList" id="attachmentsList_com_content_default_19"></div>
+</div></div></div></article></div>
+</div>
+<div class="dd-layout-cell dd-sidebar2">
+<div class="dd-block clearfixzold-gomb"><div class="dd-blockheader"><h3 class="t">Iskolánkról</h3></div><div class="dd-blockcontent"><ul class="menuzoldgomb"><li class="item-225"><a href="/kepek/">Galéria</a></li><li class="item-231"><a href="/bemutatkozunk/">Leendő elsősöknek</a></li><li class="item-177"><a href="/bemutatkozunk/">Bemutatkozunk</a></li><li class="item-236"><a href="/uszoda/">Uszoda</a></li><li class="item-178"><a href="/tanaraink/">Tanáraink</a></li><li class="item-179"><a href="/eredmenyeink/">Eredményeink</a></li><li class="item-181 current active"><a href="/ado-1-a/">Alapítvány</a></li><li class="item-182"><a href="/diakigazolvany/">Diákigazolvány</a></li><li class="item-183"><a href="/taborozas/">Táborozás</a></li><li class="item-184"><a href="/fenntarto/">Fenntartó</a></li><li class="item-186"><a href="/iskolapszichologus/">Iskolapszichológus</a></li><li class="item-187"><a href="/digitalis-oktatas/">Digitális oktatás</a></li><li class="item-193"><a href="/dokumentumok/">Dokumentumok</a></li><li class="item-194"><a href="/kozzeteteli-lista/">Különös közzétételi lista</a></li><li class="item-195"><a href="/tovabbtanulas/">Továbbtanulás</a></li><li class="item-235"><a href="/iskolaorvos/">Iskolaorvos</a></li><li class="item-298"><a href="/versenyek/">Versenyszabályzat</a></li><li class="item-336"><a href="/palyazat/">Pályázat</a></li></ul></div></div>
+</div>
+</div>
+</div>
+</div>
+<footer class="dd-footer">
+<span style="font-size: 12px;">
+Copyright © 2026 <span style="color: rgb(255, 255, 255);">Dr. Szent-Györgyi Albert Általános Iskola </span> Rights Reserved.
+</span>
+</footer>
+</div>
+<p class="dd-page-footer">
+<span id="dd-footnote-links">Designed by <a href="http://www.diablodesign.eu" target="_blank">www.diablodesign.eu</a>.</span>
+</p>
+</div>
+</body>
+</html>
