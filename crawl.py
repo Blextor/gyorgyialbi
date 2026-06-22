@@ -135,15 +135,17 @@ def process_css(css_url, content, local_path):
     text = content.decode("utf-8", "replace")
     urls = re.findall(r"url\(\s*['\"]?([^'\")]+)['\"]?\s*\)", text)
     imports = re.findall(r"@import\s+['\"]([^'\"]+)['\"]", text)
-    for ref in urls + imports:
-        ref = ref.strip()
-        if ref.startswith("data:") or ref.startswith("#"):
+    # dedupe so a relative ref isn't re-prefixed on each pass; replace longest first
+    for ref in sorted(set(u.strip() for u in urls + imports), key=len, reverse=True):
+        if not ref or ref.startswith("data:") or ref.startswith("#"):
             continue
         abs_url = urljoin(css_url, ref)
         if is_same_host(abs_url) and is_asset_url(abs_url):
             download_asset(abs_url)
             new = asset_local_href(abs_url)
-            text = text.replace(ref, new)
+            # only rewrite the exact url(...) token to avoid clobbering substrings
+            text = re.sub(r"(url\(\s*['\"]?)" + re.escape(ref) + r"(['\"]?\s*\))",
+                          lambda m: m.group(1) + new + m.group(2), text)
     with open(local_path, "w", encoding="utf-8") as f:
         f.write(text)
 

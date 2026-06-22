@@ -16,7 +16,10 @@
 <link href="/plugins/content/addtoany/addtoany.css" rel="stylesheet" type="text/css"/>
 <link href="/plugins/system/jce/css/content.css" rel="stylesheet" type="text/css"/>
 <style type="text/css">
-</style>
+
+ .cloaked_email span:before { content: attr(data-ep-a957f); } .cloaked_email span:after { content: attr(data-ep-b0395); } 
+
+	</style>
 <script class="joomla-script-options new" type="application/json">{"csrf.token":"a1099f194af67cff73f1740509530f60","system.paths":{"root":"","base":""}}</script>
 <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
 <script src="/media/system/js/core.js" type="text/javascript"></script>
@@ -108,7 +111,10 @@ jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
 jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
-</script>
+
+ window.RegularLabs=window.RegularLabs||{};window.RegularLabs.EmailProtector=window.RegularLabs.EmailProtector||{unCloak:function(e,g){document.querySelectorAll("."+e).forEach(function(a){var f="",c="";a.className=a.className.replace(" "+e,"");a.querySelectorAll("span").forEach(function(d){for(name in d.dataset)0===name.indexOf("epA")&&(f+=d.dataset[name]),0===name.indexOf("epB")&&(c=d.dataset[name]+c)});if(c){var b=a.nextElementSibling;b&&"script"===b.tagName.toLowerCase()&&b.parentNode.removeChild(b);b=f+c;g?(a.parentNode.href="mailto:"+b,a.parentNode.removeChild(a)):a.innerHTML=b}})}}; 
+
+	</script>
 <link href="/templates/system/css/system.css" rel="stylesheet"/>
 <link href="/templates/system/css/general.css" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
@@ -240,16 +246,15 @@ titkarsag.drsztgyorgyia{kukac}ebtk.hu</dd>
 <div id="system-message-container">
 </div></div></article><div class="blog" itemscope="" itemtype="http://schema.org/Blog"><div class="items-leading">
 <div class="leading-0" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
-<article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/gyermekvedelem/32-tajekoztato-anyag-pedagogusok-szamara/">Tájékoztató anyag pedagógusok számára</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/gyermekvedelem/32-tajekoztato-anyag-pedagogusok-szamara/print/" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Tájékoztató anyag pedagógusok számára &gt;"> <span aria-hidden="true" class="icon-print"></span>
-		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><p style="text-align: justify;">Pedagógusok és más fiatalokkal foglalkozó szakemberek számára készítettünk segédletet a kék bálna nevű jelenség iskolai, tanórai feldolgozásához. Az elmúlt napok nagy médiavisszhangját kiváltó témája a gyerekek körében is érdeklődésre tett szert. A jelenség kapcsán számos fontos kérdés megbeszélésére nyílik lehetőség kötetlenebb keretek között. Ennek megtervezésében nyújt segítséget a letölthető dokumentum.</p> <div class="attachmentsContainer">
-<div class="attachmentsList" id="attachmentsList_com_content_article_32">
-<table>
-<caption>Letölthető fájlok:</caption>
-<tbody>
-<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/32/KekVonal anyag.pdf" target="_blank" title="Download this file (KekVonal anyag.pdf)"><img alt="Download this file (KekVonal anyag.pdf)" src="/media/com_attachments/images/file_icons/pdf.gif"/></a><a class="at_url" href="/attachments/article/32/KekVonal anyag.pdf" target="_blank" title="Download this file (KekVonal anyag.pdf)">Miről és hogyan beszélgessünk gyerekekkel a Kék Bálna kapcsán?</a></td><td class="at_file_size">285 kB</td></tr>
-</tbody></table>
-</div>
-</div><div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Tájékoztató anyag pedagógusok számára" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/32-tajekoztato-anyag-pedagogusok-szamara">
+<article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/gyermekvedelem/27-gyermekbantalmazas/">Gyermekbántalmazás</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/gyermekvedelem/27-gyermekbantalmazas/print/" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Gyermekbántalmazás &gt;"> <span aria-hidden="true" class="icon-print"></span>
+		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><ul>
+<li><a href="http://www.saferinternet.hu/">Saferinternet.hu</a></li>
+<li><a href="http://hun.tabby.eu/">T.A.B.B.Y. trip in eu</a></li>
+<li><a href="/dok/prevencio/kamasz.pdf" title="kamasz gyerekek szülei, figyelem!">kamasz gyerekek szülei, figyelem!</a></li>
+<li><a href="/dok/prevencio/aldozat.pdf" title="Amennyiben bűncselekmény áldozatává válik…">Amennyiben bűncselekmény áldozatává válik…</a></li>
+</ul> <div class="attachmentsContainer">
+<div class="attachmentsList" id="attachmentsList_com_content_article_27"></div>
+</div><div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Gyermekbántalmazás" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/27-gyermekbantalmazas">
 <a class="a2a_button_facebook"></a>
 <!--<a class="a2a_button_twitter">
 
@@ -260,13 +265,11 @@ titkarsag.drsztgyorgyia{kukac}ebtk.hu</dd>
 </div>
 <div class="items-row cols-2 row-0">
 <div class="item column-1" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
-<article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/gyermekvedelem/31-kek-balna-mi-is-ez/">Kék Bálna - Mi is ez?</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/gyermekvedelem/31-kek-balna-mi-is-ez/print/" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Kék Bálna - Mi is ez? &gt;"> <span aria-hidden="true" class="icon-print"></span>
-		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><ul>
-<li><a href="http://index.hu/tudomany/2017/04/05/ne_a_kek_balnarol_beszeljunk_hanem_hogy_miert_akar_ongyilkos_lenni_egy_gyerek/">Kék Bálna, ugyan! Fontosabb, miért akar öngyilkos lenni egy gyerek (Index cikk)</a></li>
-<li><a href="/dok/prevencio/Figyelemfelh%C3%ADv%C3%A1s-K%C3%A9k%20b%C3%A1lna.pdf">Figyelemfelhívás-Kék bálna</a></li>
-</ul> <div class="attachmentsContainer">
-<div class="attachmentsList" id="attachmentsList_com_content_article_31"></div>
-</div><div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Kék Bálna - Mi is ez?" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/31-kek-balna-mi-is-ez">
+<article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/gyermekvedelem/26-drogprevencio/">Drogprevenció</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/gyermekvedelem/26-drogprevencio/print/" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Drogprevenció &gt;"> <span aria-hidden="true" class="icon-print"></span>
+		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><p>Az Országos Rendőr-főkapitányság által indított, ,,A szülők és a családok a Rendőrség kiemelt partnerei a kábítószer-bűnözés megelőzésében” elnevezésű program célja, hogy minden 12-18 éves gyermeket nevelő szülő lehetőséget kapjon arra, hogy évente legalább egy alkalommal közvetlen, személyes és interaktív tájékoztatásban részesüljön a kábítószer-fogyasztás büntető igazságszolgáltatást érintő kockázataival kapcsolatban.<br>A Budapesti Rendőr-főkapitányságtól az alábbi funkcionális e-mail címen kérhetnek a szülők tájékoztatást: </br></p>
+<p><!-- Ez az ímélcím szpemrobotok elleni védelem alatt áll. --><a href="javascript:/* Ez az ímélcím szpemrobotok elleni védelem alatt áll.*/"><span class="cloaked_email ep_4bbcb3ea"><span data-ep-a957f="infod" data-ep-b0395="hu"><span data-ep-a957f="rog@b" data-ep-b0395="lice."><span data-ep-a957f="udape" data-ep-b0395="st.po"></span></span></span></span><script>RegularLabs.EmailProtector.unCloak("ep_4bbcb3ea");</script><span class="cloaked_email ep_2f6df744" style="display:none;"><span data-ep-a957f="infod" data-ep-b0395="hu"><span data-ep-a957f="rog@b" data-ep-b0395="lice."><span data-ep-a957f="udape" data-ep-b0395="st.po"></span></span></span></span></a><script>RegularLabs.EmailProtector.unCloak("ep_2f6df744", true);</script></p> <div class="attachmentsContainer">
+<div class="attachmentsList" id="attachmentsList_com_content_article_26"></div>
+</div><div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Drogprevenció" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/26-drogprevencio">
 <a class="a2a_button_facebook"></a>
 <!--<a class="a2a_button_twitter">
 
@@ -275,13 +278,16 @@ titkarsag.drsztgyorgyia{kukac}ebtk.hu</dd>
 </span>
 </div></div></div></article> </div>
 <div class="item column-2" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
-<article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/gyermekvedelem/29-tovabbtanulasi-tanacsadas/">Továbbtanulási tanácsadás</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/gyermekvedelem/29-tovabbtanulasi-tanacsadas/print/" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Továbbtanulási tanácsadás &gt;"> <span aria-hidden="true" class="icon-print"></span>
-		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><ul>
-<li><a href="http://palyavalasztas.fpsz.hu/jelentkezes/">Egyéni (ingyenes) tanácsadás</a></li>
-<li><a href="http://palyavalasztas.fpsz.hu/palyavalasztasi-tanacsadas/">Pályaválasztási tanácsadás</a></li>
-</ul> <div class="attachmentsContainer">
-<div class="attachmentsList" id="attachmentsList_com_content_article_29"></div>
-</div><div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Továbbtanulási tanácsadás" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/29-tovabbtanulasi-tanacsadas">
+<article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/gyermekvedelem/25-biztonsagban-a-kozossegben-gyermekvedelemrol-mindenkinek/">Biztonságban a közösségben - Gyermekvédelemről mindenkinek</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/gyermekvedelem/25-biztonsagban-a-kozossegben-gyermekvedelemrol-mindenkinek/print/" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Biztonságban a közösségben - Gyermekvédelemről mindenkinek &gt;"> <span aria-hidden="true" class="icon-print"></span>
+		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><p style="text-align: justify;">Üdvözöljük Óbuda-Békásmegyer Önkormányzat és a Hintalovon Gyermekjogi Alapítvány közös, szülőknek szóló e-mail-kurzusán, amelyet azért hoztunk létre, hogy beszélgetést kezdeményezzünk a gyerekek védelme érdekében. Óbuda-Békásmegyer Önkormányzata számára kiemelten fontos, hogy biztonságos környezetben legyenek a gyerekek. A Hintalovon Gyermekjogi Alapítvánnyal hosszú távú együttműködésben teszünk meg minden tőlünk telhetőt azért, hogy megelőzzük a gyerekekkel szembeni bántalmazás minden formáját –ezt a célt szolgálja ez az e-mail-kurzus vagy a rendszeres ingyenes jogsegély-szolgáltatás is, amelyről az önkormányzat honlapján tájékozódhat.</p> <div class="attachmentsContainer">
+<div class="attachmentsList" id="attachmentsList_com_content_article_25">
+<table>
+<caption>Letölthető fájlok:</caption>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/25/biztonsagban_a_kozossegben.pdf" target="_blank" title="Download this file (biztonsagban_a_kozossegben.pdf)"><img alt="Download this file (biztonsagban_a_kozossegben.pdf)" src="/media/com_attachments/images/file_icons/pdf.gif"/></a><a class="at_url" href="/attachments/article/25/biztonsagban_a_kozossegben.pdf" target="_blank" title="Download this file (biztonsagban_a_kozossegben.pdf)">Teljes cikk</a></td><td class="at_file_size">275 kB</td></tr>
+</tbody></table>
+</div>
+</div><div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Biztonságban a közösségben - Gyermekvédelemről mindenkinek" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/25-biztonsagban-a-kozossegben-gyermekvedelemrol-mindenkinek">
 <a class="a2a_button_facebook"></a>
 <!--<a class="a2a_button_twitter">
 
@@ -291,56 +297,7 @@ titkarsag.drsztgyorgyia{kukac}ebtk.hu</dd>
 </div></div></div></article> </div>
 <span class="row-separator"></span>
 </div>
-<div class="items-row cols-2 row-1">
-<div class="item column-1" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
-<article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/gyermekvedelem/30-cikkek/">Cikkek</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/gyermekvedelem/30-cikkek/print/" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Cikkek &gt;"> <span aria-hidden="true" class="icon-print"></span>
-		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><ul>
-<li><a href="http://index.hu/tech/2017/02/08/biztonsagos_internet_napja_microsoft_momentan_cyberbullying/">Kedves gyerekek, ugye ti is féltek a csúnya gonosz hekkerektől? (Index)</a></li>
-<li><a href="https://yelon.hu/szuloknek/cikkek/463/amit-szulokent-a-snapchatrol-tudni-erdemes">Amit szülőként a Snapchatről tudni érdemes</a></li>
-</ul> <div class="attachmentsContainer">
-<div class="attachmentsList" id="attachmentsList_com_content_article_30"></div>
-</div><div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Cikkek" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/30-cikkek">
-<a class="a2a_button_facebook"></a>
-<!--<a class="a2a_button_twitter">
-
-<a class="a2a_button_google_plus"></a>-->
-<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-</span>
-</div></div></div></article> </div>
-<div class="item column-2" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
-<article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><a href="/gyermekvedelem/28-egeszsegfejlesztes/">Egészségfejlesztés</a></h2></div><div class="dd-postheadericons dd-metadata-icons"><a href="/gyermekvedelem/28-egeszsegfejlesztes/print/" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" title="Cikk nyomtatása &lt; Egészségfejlesztés &gt;"> <span aria-hidden="true" class="icon-print"></span>
-		Nyomtatás	</a></div><div class="dd-postcontent clearfix"><div class="dd-article"><ul>
-<li><a href="http://www.e-bug.eu/">e - Bug</a></li>
-<li><a href="http://www.ogyei.hu/kamaszok">NEFI - Gyermekegészségügyi Igazgatóság</a></li>
-<li><a href="http://hogyanmondjamelneked.blog.hu/2016/12/06/a_fiam_bezarkozik_a_szamitogeppel_olvasoi_level">Hogyan mondjam el neked!? - Használati útmutató fiatalokhoz</a></li>
-</ul> <div class="attachmentsContainer">
-<div class="attachmentsList" id="attachmentsList_com_content_article_28"></div>
-</div><div class="addtoany_container"><span class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-title="Egészségfejlesztés" data-a2a-url="https://www.drszentgyorgyi.hu/index.php/gyermekvedelem/28-egeszsegfejlesztes">
-<a class="a2a_button_facebook"></a>
-<!--<a class="a2a_button_twitter">
-
-<a class="a2a_button_google_plus"></a>-->
-<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-</span>
-</div></div></div></article> </div>
-<span class="row-separator"></span>
-</div>
-<article class="dd-post"><div class="dd-postcontent clearfix"><div class="items-more">
-<ol class="nav nav-tabs nav-stacked">
-<li>
-<a href="/gyermekvedelem/27-gyermekbantalmazas/">
-				Gyermekbántalmazás</a>
-</li>
-<li>
-<a href="/gyermekvedelem/26-drogprevencio/">
-				Drogprevenció</a>
-</li>
-<li>
-<a href="/gyermekvedelem/25-biztonsagban-a-kozossegben-gyermekvedelemrol-mindenkinek/">
-				Biztonságban a közösségben - Gyermekvédelemről mindenkinek</a>
-</li>
-</ol>
-</div></div></article><div class="pagination"><p class="counter">1. oldal / 2</p><div class="dd-pager"><span class="active">Első</span><span class="active">Előző</span><span class="active">1</span><a class="" href="/gyermekvedelem/2/">2</a><a class="hasTip" href="/gyermekvedelem/2/" title="Tovább">Tovább</a><a class="hasTip" href="/gyermekvedelem/2/" title="Utolsó">Utolsó</a></div></div></div>
+<div class="pagination"><p class="counter">2. oldal / 2</p><div class="dd-pager"><a class="hasTip" href="/gyermekvedelem/" title="Első">Első</a><a class="hasTip" href="/gyermekvedelem/" title="Előző">Előző</a><a class="" href="/gyermekvedelem/">1</a><span class="active">2</span><span class="active">Tovább</span><span class="active">Utolsó</span></div></div></div>
 </div>
 <div class="dd-layout-cell dd-sidebar2">
 <div class="dd-block clearfixzold-gomb"><div class="dd-blockheader"><h3 class="t">Iskolánkról</h3></div><div class="dd-blockcontent"><ul class="menuzoldgomb"><li class="item-225"><a href="/kepek/">Galéria</a></li><li class="item-231"><a href="/bemutatkozunk/">Leendő elsősöknek</a></li><li class="item-177"><a href="/bemutatkozunk/">Bemutatkozunk</a></li><li class="item-236"><a href="/uszoda/">Uszoda</a></li><li class="item-178"><a href="/tanaraink/">Tanáraink</a></li><li class="item-179"><a href="/eredmenyeink/">Eredményeink</a></li><li class="item-181"><a href="/ado-1-a/">Alapítvány</a></li><li class="item-182"><a href="/diakigazolvany/">Diákigazolvány</a></li><li class="item-183"><a href="/taborozas/">Táborozás</a></li><li class="item-184"><a href="/fenntarto/">Fenntartó</a></li><li class="item-186"><a href="/iskolapszichologus/">Iskolapszichológus</a></li><li class="item-187"><a href="/digitalis-oktatas/">Digitális oktatás</a></li><li class="item-193"><a href="/dokumentumok/">Dokumentumok</a></li><li class="item-194"><a href="/kozzeteteli-lista/">Különös közzétételi lista</a></li><li class="item-195"><a href="/tovabbtanulas/">Továbbtanulás</a></li><li class="item-235"><a href="/iskolaorvos/">Iskolaorvos</a></li><li class="item-298"><a href="/versenyek/">Versenyszabályzat</a></li><li class="item-336"><a href="/palyazat/">Pályázat</a></li></ul></div></div>
